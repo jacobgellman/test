@@ -5,3 +5,5 @@ Hello world!
 New branch text. 
 
 [Insert your crazy idea here.]
+
+Merge conflicts test. 
