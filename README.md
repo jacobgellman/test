@@ -6,4 +6,4 @@ New branch text.
 
 [Insert your crazy idea here.]
 
-Another merge conflict test. This one is different. 
+(Erased merge conflicts; The actual solution is written as thus.)
